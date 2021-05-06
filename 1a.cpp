@@ -1,5 +1,7 @@
 #include<iostream>
 
+
+//program to cheack the range of an integer
 int main() {
     int number;
     std::cout << "Type in a number: ";
